@@ -1,0 +1,7 @@
+{
+  "name": "YuiProMusic",
+  "description": "🤖 Made with love by Android Discord Music Bot built with discord.js",
+  "repository": "https://github.com/gtagamermods/admusicbot",
+  "logo": "https://cdn.discordapp.com/avatars/829542348085526569/5652d1fa40edc3508cb0b400d459e2f0.webp",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
