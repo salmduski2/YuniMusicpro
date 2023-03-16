@@ -120,5 +120,5 @@ app.get("/", (req, res) => {
 })
 
 app.listen(3000, () => {
- console.log("Project is ready")
+ console.log("MTA2NzU3Mjg1ODI5NDg5ODY5OQ.GVvhHb.8h7BTlBzt-52tQ5slFvOk8I-Yzpa-Zcwu1tyk8")
 })
